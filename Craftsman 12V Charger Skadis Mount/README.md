@@ -4,7 +4,7 @@ A wall mount designed to hold a Craftsman 12V battery charger on IKEA Skadis peg
 
 ## Photos
 
-_Photos coming soon_
+<img src="Craftsman 12V Charger Skadis.jpeg" width="400">
 
 ## License
 
