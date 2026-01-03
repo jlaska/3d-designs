@@ -11,6 +11,7 @@ A collection of 3D printable designs for tool storage and workshop organization.
 | [Craftsman 12V Charger Skadis Mount](Craftsman%2012V%20Charger%20Skadis%20Mount/) | <img src="Craftsman 12V Charger Skadis Mount/Craftsman 12V Charger Skadis.jpeg" width="200"> | Wall mount for Craftsman 12V battery charger compatible with IKEA Skadis pegboard |
 | [Ryobi 40V Battery Skadis Battery Mount](Ryobi%2040V%20Battery%20Skadis%20Mount/) | <img src="Ryobi 40V Battery Skadis Mount/Ryobi 40V Battery Skadis Battery Mount 1.jpg" width="200"> | Wall mount for Ryobi 40V batteries and charger compatible with IKEA Skadis pegboard |
 | [Ryobi 40V Battery Skadis Charger Mount](Ryobi%2040V%20Battery%20Skadis%20Mount/) | <img src="Ryobi 40V Battery Skadis Mount/Ryobi 40V Battery Skadis Charger Mount 1.jpg" width="200"> | Wall mount for Ryobi 40V batteries and charger compatible with IKEA Skadis pegboard |
+| [Stihl AK Battery Skadis Mount](Stihl%20AK%20Battery%20Skadis%20Mount/) | <img src="Stihl AK Battery Skadis Mount/Stihl AK Battery Skadis Mount 1.jpg" width="200"> | Wall mount for Stihl AK series batteries compatible with IKEA Skadis pegboard |
 | [Stihl BGA57 Gladiator Garage Hook](Stihl%20BGA57%20Gladiator%20Garage%20Hook/) |   <img src="Stihl%20BGA57%20Gladiator%20Garage%20Hook/IMG_4838.jpeg" width="200"> | Hook for storing Stihl BGA57 battery-powered blower on Gladiator garage storage systems |
 
 ## File Formats
