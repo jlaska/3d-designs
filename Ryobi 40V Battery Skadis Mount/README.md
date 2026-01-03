@@ -7,10 +7,13 @@ A wall mount for Ryobi 40V batteries and charger compatible with IKEA Skadis peg
 <img src="Ryobi 40V Battery Skadis Battery Mount 1.jpg" width="400">
 <img src="Ryobi 40V Battery Skadis Battery Mount 2.jpg" width="400">
 <img src="Ryobi 40V Battery Skadis Charger Mount 1.jpg" width="400">
+<img src="Ryobi 40V Battery Skadis Charger Mount 2.jpg" width="400">
 
 ## Attribution
 
-This design is based on [Ryobi 40V 4ah Battery and Charge Holder](https://www.printables.com/model/840819-ryobi-40v-4ah-battery-and-charge-holder) by [@gnomes](https://www.printables.com/@gnomes_160188) on Printables.
+This design is based on the following:
+- [Ryobi 40V 4ah Battery and Charge Holder](https://www.printables.com/model/840819-ryobi-40v-4ah-battery-and-charge-holder) by [@gnomes](https://www.printables.com/@gnomes_160188) on Printables.
+- [Skadis T-Nuts Mounting System for Ikea Skadis Pegboards](https://www.printables.com/model/228663-skadis-t-nuts-mounting-system-for-ikea-skadis-pegb) by [@6d6178](https://www.printables.com/@6d6178) on Printables.
 
 ## License
 
