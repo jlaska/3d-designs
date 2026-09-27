@@ -8,7 +8,7 @@ A collection of 3D printable designs for tool storage and workshop organization.
 
 | Design | Preview | Description |
 |--------|---------|-------------|
-| [ASUS NUC 14 Pro Slim 10" Rack](ASUS%20NUC%2014%20Pro%20Slim%2010%20Rack/) |  | 10 inch rack mount for the ASUS NUC 14 Pro Slim mini PC |
+| [ASUS NUC 14 Pro Slim 10" Rack](ASUS%20NUC%2014%20Pro%20Slim%2010%20Rack/) | <img src="ASUS NUC 14 Pro Slim 10 Rack/ASUS NUC 14 Pro Slim 10 Rack 1.jpg" width="200"> | 10 inch rack mount for the ASUS NUC 14 Pro Slim mini PC |
 | [Craftsman 12V Charger Skadis Mount](Craftsman%2012V%20Charger%20Skadis%20Mount/) | <img src="Craftsman 12V Charger Skadis Mount/Craftsman 12V Charger Skadis.jpeg" width="200"> | Wall mount for Craftsman 12V battery charger compatible with IKEA Skadis pegboard |
 | [Ryobi 40V Battery Skadis Battery Mount](Ryobi%2040V%20Battery%20Skadis%20Mount/) | <img src="Ryobi 40V Battery Skadis Mount/Ryobi 40V Battery Skadis Battery Mount 1.jpg" width="200"> | Wall mount for Ryobi 40V batteries and charger compatible with IKEA Skadis pegboard |
 | [Ryobi 40V Battery Skadis Charger Mount](Ryobi%2040V%20Battery%20Skadis%20Mount/) | <img src="Ryobi 40V Battery Skadis Mount/Ryobi 40V Battery Skadis Charger Mount 1.jpg" width="200"> | Wall mount for Ryobi 40V batteries and charger compatible with IKEA Skadis pegboard |

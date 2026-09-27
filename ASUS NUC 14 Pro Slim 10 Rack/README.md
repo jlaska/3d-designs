@@ -2,6 +2,10 @@
 
 A 10" (half-rack) mount for the ASUS NUC 14 Pro Slim, for use in a 10 inch network rack or homelab cabinet.
 
+## Photos
+
+<img src="ASUS NUC 14 Pro Slim 10 Rack 1.jpg" width="400">
+
 ## Attribution
 
 This design is based on (or inspired by) the following:
